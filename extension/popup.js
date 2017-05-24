@@ -1,12 +1,12 @@
-document.addEventListener('DOMContentLoaded', function() {
+document.addEventListener('DOMContentLoaded', function () {
   var checkPageButton = document.getElementById('checkPage');
-  checkPageButton.addEventListener('click', function() {
+  checkPageButton.addEventListener('click', function () {
 
-    chrome.tabs.getSelected(null, function(tab) {
+     chrome.tabs.getSelected(null, function (tab) {
       d = document;
 
       var f = d.createElement('form');
-      f.action = 'http://smashbros.com';
+      var f.action = 'http://smashbros.com';
       f.method = 'post';
       var i = d.createElement('input');
       i.type = 'hidden';
