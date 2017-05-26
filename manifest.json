@@ -1,20 +1,17 @@
 {
+  "name": "Test Extension",
+  "version": "1.0",
   "manifest_version": 2,
- 
-  "name": "Modify CSS and HTML",
-  "version": "0.1.0",
-  "description": "Lateral blog post demo extension",
+  "description": "The first extension for my test",
+    "content_scripts": [{
+    "css": ["styles.css"],
+    "matches": ["<all_urls>"]
+  }],
   "browser_action": {
     "default_icon": "icon.png",
     "default_popup": "popup.html"
   },
-  "content_scripts": [{
-    "css": ["styles.css"],
-    "js": ["content.js"],
-    "matches": ["<all_urls>"]
-  }],
- "js": ["jquery-3.2.1.min.js", "popup.js"],
   "permissions": [
-    "activeTabs"
+    "tabs"
   ]
 }
