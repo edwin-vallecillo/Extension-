@@ -1,0 +1,56 @@
+head { background: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4Df9fHWbarBJlsZx-Zaux7o7AP4rYTJxfcx-j4kNrh8iZH-5B')
+!important;
+}
+body {
+  background: url('https://wallpaperscraft.com/image/dark_background_line_surface_65896_602x339.jpg') !important;
+}
+a {
+    color:#00FFFF !important;
+}
+#masthead,
+#primary {
+  -webkit-filter: invert(100%);
+  filter: invert(100%);
+  background-color: #fff;
+  padding: 20px !important;
+}
+#masthead {
+  background: none;
+}
+#masthead img, #primary img {
+  -webkit-filter: invert(100%);
+  filter: invert(100%);
+}
+#hdtbSum{
+    background: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4Df9fHWbarBJlsZx-Zaux7o7AP4rYTJxfcx-j4kNrh8iZH-5B')
+        !important;
+}
+#slim_appbar {
+    background: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4Df9fHWbarBJlsZx-Zaux7o7AP4rYTJxfcx-j4kNrh8iZH-5B')
+        !important;
+}
+#ss_box {
+    background: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4Df9fHWbarBJlsZx-Zaux7o7AP4rYTJxfcx-j4kNrh8iZH-5B')
+        !important;
+}
+.sfbgg {
+    background: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4Df9fHWbarBJlsZx-Zaux7o7AP4rYTJxfcx-j4kNrh8iZH-5B')
+        !important;
+}
+#topabar {
+    background: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4Df9fHWbarBJlsZx-Zaux7o7AP4rYTJxfcx-j4kNrh8iZH-5B')
+        !important;
+}
+input, select, textarea{
+    color: #00FF00;
+}
+
+textarea:focus, input:focus {
+    color: #00FF00;
+}
+._Zvd{
+    background: url('https://wallpaperscraft.com/image/dark_background_line_surface_65896_602x339.jpg') !important;
+}
+.fbar{
+    background: url('https://wallpaperscraft.com/image/dark_background_line_surface_65896_602x339.jpg') !important;
+}
