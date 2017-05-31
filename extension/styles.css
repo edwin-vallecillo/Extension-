@@ -54,3 +54,6 @@ textarea:focus, input:focus {
 .fbar{
     background: url('https://wallpaperscraft.com/image/dark_background_line_surface_65896_602x339.jpg') !important;
 }
+a:hover { 
+    color: #db0689 !important;
+}
