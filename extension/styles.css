@@ -42,7 +42,7 @@ a {
         !important;
 }
 input, select, textarea{
-    color: #00FF00;
+    color: #165ccc;
 }
 
 textarea:focus, input:focus {
