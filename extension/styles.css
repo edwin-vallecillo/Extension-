@@ -55,8 +55,10 @@ textarea:focus, input:focus {
     background: url('https://wallpaperscraft.com/image/dark_background_line_surface_65896_602x339.jpg') !important;
 }
 a:hover { 
-    color: #db0689 !important;
+    color: #e5008d !important;
 }
 #hdtb-tls {
     background: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4Df9fHWbarBJlsZx-Zaux7o7AP4rYTJxfcx-j4kNrh8iZH-5B')
         !important;
+}
+
